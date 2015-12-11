@@ -1,4 +1,4 @@
-#day_3-1.rb
+#day_3-2.rb
 
 require 'set'
 
